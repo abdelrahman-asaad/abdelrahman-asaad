@@ -1,6 +1,5 @@
 # Hi there, I'm Abdelrahman Asaad! 👋
 
-(https://img.freepik.com/premium-psd/futuristic-web-developer-with-characters-coding-designin-png-people-daily-work-illustration_1142283-412430.jpg)
 ## About Me 🚀
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
