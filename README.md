@@ -1,6 +1,6 @@
 # Hi there, I'm Abdelrahman Asaad! 👋
 
-![Banner Image][(your_banner_image_url_here)](https://www.freepik.com/premium-vector/flat-vector-illustration-computer-programmer-character_298076032.htm)
+![Banner Image][(https://www.freepik.com/premium-vector/flat-vector-illustration-computer-programmer-character_298076032.htm]
 
 ## About Me 🚀
 
